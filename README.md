@@ -4,5 +4,8 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=gnoluv9x&theme=darcula">
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--START_SECTION:SHOW_TIME-->
 <!--END_SECTION:SHOW_TIME-->
