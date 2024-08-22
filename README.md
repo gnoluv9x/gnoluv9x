@@ -1,7 +1,6 @@
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=gnoluv9x&show_icons=true&count_private=true&theme=darcula&hide_border=true">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoluv9x&layout=compact&hide_border=true&theme=darcula&&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=gnoluv9x&theme=darcula">
+<p style="display:flex;align-items:center;column-gap:0.5rem;" align="center">
+  <img style="flex-grow:1;align-self:stretch;object-fit:cover;"  src ="https://github-readme-stats.vercel.app/api?username=gnoluv9x&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true">
+  <img style="flex-grow:1;align-self:stretch;object-fit:cover;"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoluv9x&layout=compact&hide_border=true&theme=chartreuse-dark&&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
 
 <!--START_SECTION:waka-->
