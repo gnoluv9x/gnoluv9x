@@ -86,5 +86,3 @@ PHP                      1 repo              ░░░░░░░░░░░�
  Last Updated on 22/08/2024 03:38:04 UTC
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
