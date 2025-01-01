@@ -12,7 +12,7 @@
 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,16 +45,18 @@ Sunday                   138 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               9 mins              ██████████████████░░░░░░░   70.51 % 
+JSON                     3 mins              ███████░░░░░░░░░░░░░░░░░░   27.52 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2024 05:23:18 UTC
+ Last Updated on 01/01/2025 05:23:39 UTC
 <!--END_SECTION:waka-->
 
