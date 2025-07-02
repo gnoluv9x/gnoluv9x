@@ -4,6 +4,8 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C085%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -54,6 +56,6 @@ Linux                    57 mins             ███████████�
 ```
 
 
- Last Updated on 01/07/2025 05:31:33 UTC
+ Last Updated on 02/07/2025 05:31:09 UTC
 <!--END_SECTION:waka-->
 
