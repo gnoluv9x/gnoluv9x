@@ -4,13 +4,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
+> 📦 120.5 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2025
  > 
@@ -18,7 +18,7 @@
  > 
 > 📜 69 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 25 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -57,6 +57,6 @@ Linux                    0 secs              ███████████�
 ```
 
 
- Last Updated on 24/08/2025 03:23:16 UTC
+ Last Updated on 24/08/2025 03:29:15 UTC
 <!--END_SECTION:waka-->
 
