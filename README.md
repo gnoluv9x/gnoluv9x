@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,16 +45,16 @@ Sunday                   153 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     39 mins             █████████████████████████   100.00 % 
+Dart                     1 hr 8 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    39 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/09/2025 05:25:18 UTC
+ Last Updated on 19/09/2025 05:25:28 UTC
 <!--END_SECTION:waka-->
 
