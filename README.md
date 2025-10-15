@@ -4,8 +4,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2029%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -45,19 +43,16 @@ Sunday                   153 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     32 mins             ████████████████████████░   97.06 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2025 05:26:42 UTC
+ Last Updated on 15/10/2025 05:27:05 UTC
 <!--END_SECTION:waka-->
 
