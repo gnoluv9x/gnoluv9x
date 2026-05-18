@@ -4,8 +4,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -20,47 +18,7 @@
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                484 commits         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌆 Daytime                635 commits         ██████████░░░░░░░░░░░░░░░   38.09 % 
-🌃 Evening                449 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Wednesday                243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 346 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Saturday                 82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Sunday                   163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 21 mins        █████████████░░░░░░░░░░░░   52.27 % 
-JavaScript               50 mins             ████████░░░░░░░░░░░░░░░░░   32.45 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-
-🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████░░░░░░░░░░░░   51.44 % 
-Unknown Editor           1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.56 % 
-
-💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████░░░░░░░░   68.89 % 
-Linux                    48 mins             ████████░░░░░░░░░░░░░░░░░   31.11 % 
-```
-
-
- Last Updated on 17/05/2026 07:39:04 UTC
+ Last Updated on 18/05/2026 08:52:09 UTC
 <!--END_SECTION:waka-->
 
