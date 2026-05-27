@@ -20,7 +20,43 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 26/05/2026 08:39:33 UTC
+```text
+🌞 Morning                485 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌆 Daytime                635 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌃 Evening                452 commits         ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+🌙 Night                  99 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   340 commits         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Tuesday                  268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Thursday                 348 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Friday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 82 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Sunday                   163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               15 mins             █████████████████████████   98.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+
+🔥 Editors: 
+VS Code                  15 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 mins             ████████████████████░░░░░   78.84 % 
+Linux                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+```
+
+
+ Last Updated on 27/05/2026 08:45:03 UTC
 <!--END_SECTION:waka-->
 
