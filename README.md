@@ -4,8 +4,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C213%20hrs%2050%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -45,16 +43,16 @@ Sunday                   163 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/06/2026 07:52:01 UTC
+ Last Updated on 07/06/2026 08:29:13 UTC
 <!--END_SECTION:waka-->
 
