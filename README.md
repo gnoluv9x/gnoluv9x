@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,16 +45,20 @@ Sunday                   163 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 mins             █████████████████████████   100.00 % 
+Other                    29 mins             ██████████████████░░░░░░░   71.98 % 
+TypeScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 08:17:16 UTC
+ Last Updated on 04/07/2026 07:53:46 UTC
 <!--END_SECTION:waka-->
 
