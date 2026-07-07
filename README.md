@@ -45,20 +45,21 @@ Sunday                   163 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    29 mins             ██████████████████░░░░░░░   71.98 % 
-TypeScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               3 hrs 9 mins        ███████████████░░░░░░░░░░   60.16 % 
+JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 58 mins       ████████████████████████░   95.01 % 
+Opencode Cli             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Linux                    41 mins             █████████████████████████   100.00 % 
+Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/07/2026 09:07:56 UTC
+ Last Updated on 07/07/2026 08:31:15 UTC
 <!--END_SECTION:waka-->
 
