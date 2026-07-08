@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,21 +45,21 @@ Sunday                   163 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        ███████████████░░░░░░░░░░   60.16 % 
-JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Other                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+TypeScript               3 hrs 9 mins        ████████████████░░░░░░░░░   63.24 % 
+JSON                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       ████████████████████████░   95.01 % 
-Opencode Cli             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+VS Code                  4 hrs 43 mins       ████████████████████████░   94.75 % 
+Opencode Cli             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 08:31:15 UTC
+ Last Updated on 08/07/2026 07:37:39 UTC
 <!--END_SECTION:waka-->
 
