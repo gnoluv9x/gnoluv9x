@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,23 +45,23 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 41 mins       ███████████████░░░░░░░░░░   60.66 % 
-JSON                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Bru                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               7 hrs 49 mins       ███████████████░░░░░░░░░░   61.47 % 
+Markdown                 1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+JSON                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Bru                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       █████████████░░░░░░░░░░░░   50.66 % 
-Claude Code              6 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.27 % 
+VS Code                  6 hrs 40 mins       █████████████░░░░░░░░░░░░   52.42 % 
+Claude Code              5 hrs 54 mins       ████████████░░░░░░░░░░░░░   46.52 % 
 Antigravity IDE          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Linux                    12 hrs 36 mins      █████████████████████████   99.33 % 
+Linux                    12 hrs 38 mins      █████████████████████████   99.33 % 
 Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 
 
- Last Updated on 18/07/2026 07:05:12 UTC
+ Last Updated on 19/07/2026 07:33:22 UTC
 <!--END_SECTION:waka-->
 
