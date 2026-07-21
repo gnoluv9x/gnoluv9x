@@ -4,7 +4,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C254%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,23 +45,22 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 9 mins        ███████████████░░░░░░░░░░   60.43 % 
-Markdown                 2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Bru                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               4 hrs 53 mins       ████████████████░░░░░░░░░   65.89 % 
+Markdown                 1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Bru                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 51 mins       ████████████░░░░░░░░░░░░░   49.47 % 
-Claude Code              5 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.38 % 
-Antigravity IDE          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Claude Code              4 hrs 21 mins       ███████████████░░░░░░░░░░   58.80 % 
+VS Code                  3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.20 % 
 
 💻 Operating System: 
-Linux                    11 hrs 24 mins      ████████████████████████░   96.43 % 
-Mac                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Linux                    7 hrs 4 mins        ████████████████████████░   95.25 % 
+Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 
 
- Last Updated on 20/07/2026 08:14:38 UTC
+ Last Updated on 21/07/2026 07:39:10 UTC
 <!--END_SECTION:waka-->
 
