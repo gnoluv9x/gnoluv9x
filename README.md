@@ -45,22 +45,22 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 53 mins       ████████████████░░░░░░░░░   65.89 % 
-Markdown                 1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Bru                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               4 hrs 45 mins       █████████████████░░░░░░░░   68.90 % 
+Markdown                 1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Bru                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 21 mins       ███████████████░░░░░░░░░░   58.80 % 
-VS Code                  3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.20 % 
+Claude Code              3 hrs 52 mins       ██████████████░░░░░░░░░░░   56.03 % 
+VS Code                  3 hrs 2 mins        ███████████░░░░░░░░░░░░░░   43.97 % 
 
 💻 Operating System: 
-Linux                    7 hrs 4 mins        ████████████████████████░   95.25 % 
-Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Linux                    6 hrs 33 mins       ████████████████████████░   94.90 % 
+Mac                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 
- Last Updated on 21/07/2026 07:39:10 UTC
+ Last Updated on 22/07/2026 07:40:01 UTC
 <!--END_SECTION:waka-->
 
