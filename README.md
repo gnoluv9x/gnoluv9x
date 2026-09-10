@@ -4,15 +4,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.6 MB Used in GitHub's Storage 
+> 📦 1.7 MB Used in GitHub's Storage 
  > 
 > 🏆 17 Contributions in the Year 2026
  > 
@@ -25,21 +25,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                497 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-🌆 Daytime                647 commits         ██████████░░░░░░░░░░░░░░░   38.37 % 
-🌃 Evening                446 commits         ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+🌞 Morning                497 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+🌆 Daytime                649 commits         ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌃 Evening                448 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌙 Night                  96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   338 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Tuesday                  298 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Wednesday                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Thursday                 349 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Friday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Sunday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Monday                   338 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  298 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Wednesday                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 351 commits         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Friday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Saturday                 86 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Sunday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 ```
 
 
@@ -47,47 +47,49 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 39 mins       █████████████░░░░░░░░░░░░   51.60 % 
-Python                   1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-JavaScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-C                        1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown                 7 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.68 % 
+Python                   2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+TypeScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+JavaScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+C                        1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 44 mins      █████████████████████░░░░   85.90 % 
-VS Code                  1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Antigravity IDE          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Claude Code              12 hrs 44 mins      ███████████████████░░░░░░   76.62 % 
+VS Code                  2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Antigravity IDE          1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 
 💻 Operating System: 
-Linux                    9 hrs 20 mins       ████████████████░░░░░░░░░   62.97 % 
-Mac                      5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
+Linux                    10 hrs 29 mins      ████████████████░░░░░░░░░   63.10 % 
+Mac                      6 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 20 mins (96.68%)
+⏱ AI Coding Time: 16 hrs (96.3%)
 
-✍️ 6,324 lines written by AI, 43 lines written by hand (99.32% AI-written)
+✍️ 6,847 lines written by AI, 192 lines written by hand (97.27% AI-written)
 
-🔤 5,687,491 Input Tokens, 1,136,248 Output Tokens
+🔤 6,013,492 Input Tokens, 1,166,131 Output Tokens
 
-💵 $143.16 Estimated AI Cost This Week
+💵 $150.42 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 161 AI Prompts
+🧠 25 AI Sessions, 189 AI Prompts
 
-Opus                     3,422 lines         █████████████░░░░░░░░░░░░   51.35 % 
-Sonnet                   3,242 lines         ████████████░░░░░░░░░░░░░   48.65 % 
+Opus                     3,422 lines         ████████████░░░░░░░░░░░░░   47.30 % 
+Sonnet                   3,242 lines         ███████████░░░░░░░░░░░░░░   44.82 % 
+Opencode-Cli             446 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Gemini                   124 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.32% of written lines came from AI
-📄 Detailed Prompter — average 1,364 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.67% of changed lines were hand-edited
+🤖 AI-Driven — 97.27% of written lines came from AI
+📄 Detailed Prompter — average 1,292 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 8.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 09:35:51 UTC
+ Last Updated on 10/09/2026 09:35:37 UTC
 <!--END_SECTION:waka-->
 
