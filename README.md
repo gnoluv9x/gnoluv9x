@@ -47,49 +47,49 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-Python                   3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-C                        1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-TypeScript               1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Markdown                 5 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
+Python                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+Other                    1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+C                        1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 16 mins      ██████████████████░░░░░░░   73.22 % 
-Antigravity IDE          3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-VS Code                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Claude Code              11 hrs 37 mins      ██████████████████░░░░░░░   70.53 % 
+Antigravity IDE          3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+VS Code                  1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 
 💻 Operating System: 
-Mac                      9 hrs 43 mins       █████████████░░░░░░░░░░░░   53.62 % 
-Linux                    8 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.38 % 
+Linux                    8 hrs 24 mins       █████████████░░░░░░░░░░░░   51.01 % 
+Mac                      8 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 44 mins (97.76%)
+⏱ AI Coding Time: 16 hrs 5 mins (97.54%)
 
-✍️ 5,303 lines written by AI, 167 lines written by hand (96.95% AI-written)
+✍️ 5,155 lines written by AI, 167 lines written by hand (96.86% AI-written)
 
-🔤 6,971,467 Input Tokens, 967,819 Output Tokens
+🔤 6,603,030 Input Tokens, 904,001 Output Tokens
 
-💵 $173.33 Estimated AI Cost This Week
+💵 $158.52 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 235 AI Prompts
+🧠 28 AI Sessions, 230 AI Prompts
 
-Opus                     3,634 lines         ████████████████░░░░░░░░░   64.27 % 
-Sonnet                   1,426 lines         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Opencode-Cli             446 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Gemini                   148 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Opus                     3,486 lines         ████████████████░░░░░░░░░   63.31 % 
+Sonnet                   1,426 lines         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Opencode-Cli             446 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Gemini                   148 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.95% of written lines came from AI
-📄 Detailed Prompter — average 505 characters per prompt
+🤖 AI-Driven — 96.86% of written lines came from AI
+📝 Concise Prompter — average 491 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 9.75% of changed lines were hand-edited
+🚀 High AI Trust — 9.99% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 09:13:09 UTC
+ Last Updated on 13/09/2026 10:10:16 UTC
 <!--END_SECTION:waka-->
 
