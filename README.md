@@ -25,20 +25,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                508 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌆 Daytime                679 commits         ██████████░░░░░░░░░░░░░░░   38.96 % 
-🌃 Evening                459 commits         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+🌞 Morning                508 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+🌆 Daytime                679 commits         ██████████░░░░░░░░░░░░░░░   38.93 % 
+🌃 Evening                460 commits         ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+🌙 Night                  97 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Tuesday                  315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 356 commits         █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Saturday                 89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Monday                   340 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Tuesday                  315 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 356 commits         █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+Friday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 Sunday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 
@@ -47,45 +47,45 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       30 mins             █████████░░░░░░░░░░░░░░░░   34.88 % 
-Python                   18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Markdown                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-C++                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+C#                       30 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
+Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+C++                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-Antigravity IDE          54 mins             ████████████████░░░░░░░░░   62.14 % 
-VS Code                  33 mins             █████████░░░░░░░░░░░░░░░░   37.86 % 
+Antigravity IDE          36 mins             █████████████░░░░░░░░░░░░   52.01 % 
+VS Code                  33 mins             ████████████░░░░░░░░░░░░░   47.99 % 
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (98.87%)
+⏱ AI Coding Time: 1 hr 8 mins (98.57%)
 
-✍️ 7,824 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,813 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,709,176 Input Tokens, 160,856 Output Tokens
+🔤 2,722,035 Input Tokens, 143,219 Output Tokens
 
-💵 $9.94 Estimated AI Cost This Week
+💵 $9.14 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 13 AI Prompts
+🧠 3 AI Sessions, 12 AI Prompts
 
-Gemini                   4,441 lines         ██████████████░░░░░░░░░░░   56.75 % 
-Opencode-Cli             3,384 lines         ███████████░░░░░░░░░░░░░░   43.25 % 
+Gemini                   4,430 lines         ██████████████░░░░░░░░░░░   56.69 % 
+Opencode-Cli             3,384 lines         ███████████░░░░░░░░░░░░░░   43.31 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 54 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/09/2026 11:39:48 UTC
+ Last Updated on 29/09/2026 11:17:53 UTC
 <!--END_SECTION:waka-->
 
