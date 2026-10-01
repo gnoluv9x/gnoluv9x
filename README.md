@@ -47,45 +47,44 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C#                       30 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
-Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-C++                      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+C#                       30 mins             █████████████░░░░░░░░░░░░   53.54 % 
+Markdown                 17 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
+XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Makefile                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-Antigravity IDE          36 mins             █████████████░░░░░░░░░░░░   52.01 % 
-VS Code                  33 mins             ████████████░░░░░░░░░░░░░   47.99 % 
+Antigravity IDE          36 mins             ████████████████░░░░░░░░░   63.00 % 
+VS Code                  21 mins             █████████░░░░░░░░░░░░░░░░   37.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (98.57%)
+⏱ AI Coding Time: 56 mins (98.27%)
 
 ✍️ 7,813 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,722,035 Input Tokens, 143,219 Output Tokens
+🔤 2,705,859 Input Tokens, 140,928 Output Tokens
 
-💵 $9.14 Estimated AI Cost This Week
+💵 $9.05 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 8 AI Prompts
 
 Gemini                   4,430 lines         ██████████████░░░░░░░░░░░   56.69 % 
 Opencode-Cli             3,384 lines         ███████████░░░░░░░░░░░░░░   43.31 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 54 characters per prompt
+📝 Concise Prompter — average 43 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/09/2026 11:06:24 UTC
+ Last Updated on 01/10/2026 11:33:00 UTC
 <!--END_SECTION:waka-->
 
