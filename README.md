@@ -47,40 +47,42 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 mins             ███████████████████████░░   90.73 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Python                   16 mins             ██████████████░░░░░░░░░░░   55.26 % 
+Other                    12 mins             ███████████░░░░░░░░░░░░░░   42.53 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-Antigravity IDE          18 mins             █████████████████████████   100.00 % 
+Antigravity IDE          18 mins             ███████████████░░░░░░░░░░   60.91 % 
+VS Code                  11 mins             ██████████░░░░░░░░░░░░░░░   39.09 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (100.0%)
+⏱ AI Coding Time: 30 mins (100.0%)
 
 ✍️ 13 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,644,737 Input Tokens, 80,615 Output Tokens
+🔤 1,817,563 Input Tokens, 126,006 Output Tokens
 
-💵 $1.54 Estimated AI Cost This Week
+💵 $13.10 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
 Gemini                   13 lines            █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 44 characters per prompt
+📝 Concise Prompter — average 37 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/10/2026 10:22:45 UTC
+ Last Updated on 04/10/2026 11:05:31 UTC
 <!--END_SECTION:waka-->
 
