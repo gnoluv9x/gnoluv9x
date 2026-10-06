@@ -47,42 +47,40 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 mins             ██████████████░░░░░░░░░░░   55.26 % 
-Other                    12 mins             ███████████░░░░░░░░░░░░░░   42.53 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Other                    12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Antigravity IDE          18 mins             ███████████████░░░░░░░░░░   60.91 % 
-VS Code                  11 mins             ██████████░░░░░░░░░░░░░░░   39.09 % 
+VS Code                  11 mins             ███████████████████████░░   91.90 % 
+Antigravity IDE          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (100.0%)
+⏱ AI Coding Time: 12 mins (100.0%)
 
-✍️ 13 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,817,563 Input Tokens, 126,006 Output Tokens
+🔤 363,112 Input Tokens, 51,806 Output Tokens
 
-💵 $13.10 Estimated AI Cost This Week
+💵 $11.73 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Gemini                   13 lines            █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 37 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 31 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/10/2026 12:14:40 UTC
+ Last Updated on 06/10/2026 11:58:10 UTC
 <!--END_SECTION:waka-->
 
