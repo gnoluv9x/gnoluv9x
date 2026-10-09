@@ -47,40 +47,38 @@ Sunday                   166 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████████   100.00 % 
+Other                    11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 mins             ███████████████████████░░   91.90 % 
-Antigravity IDE          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (100.0%)
+⏱ AI Coding Time: 11 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 363,112 Input Tokens, 51,806 Output Tokens
+🔤 172,826 Input Tokens, 45,391 Output Tokens
 
-💵 $11.73 Estimated AI Cost This Week
+💵 $11.56 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 31 characters per prompt
+📝 Concise Prompter — average 27 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 11:57:18 UTC
+ Last Updated on 09/10/2026 11:49:11 UTC
 <!--END_SECTION:waka-->
 
